@@ -4,7 +4,7 @@
   - Take the indices of the `column` (left most arrays)
     - push the first index of each of those arrays into an array if the number doesnt already exist within the array we have pushed too.
     - check that the length of that array is 9 if so return true
-       - repeat for indecies 1, 2 of inner arrays,
+       - repeat for indices 1, 2 of inner arrays,
   - Repeat the above process for middle column indices
   - Repeat the abobve process for right column indices
 
